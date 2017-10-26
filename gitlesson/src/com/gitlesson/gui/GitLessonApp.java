@@ -12,5 +12,6 @@ public class GitLessonApp {
 		new SYJFrame();//SYJㅎㅊ
 		new YBNFrame();
 		new GEGFrame();
+		new JDSFrame();
 	}
 }
