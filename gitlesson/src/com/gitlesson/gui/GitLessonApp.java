@@ -9,12 +9,12 @@ public class GitLessonApp {
 		new KDYFrame();//CKM FRAME 호출
 		new KGMFrame();
 		new LHSFrame();
-		new SYJFrame();//SYJㅎㅊ
 		new YBNFrame();
 		new GEGFrame();
 		new JDSFrame();
 		new KJYFrame();
 		new KDHFrame();
 		new LEEFrame(); // LEE FRAME 호출
+		new SYJFrame();//SYJ FRAME 호출
 	}
 }
