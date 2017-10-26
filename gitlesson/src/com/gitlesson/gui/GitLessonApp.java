@@ -7,5 +7,7 @@ public class GitLessonApp {
 		new KBJFrame();
 		new KDH2Frame();
 		new KDYFrame();//CKM FRAME 호출
+		new KGMFrame();
+		
 	}
 }
