@@ -9,5 +9,6 @@ public class GitLessonApp {
 		new KDYFrame();//CKM FRAME 호출
 		new KGMFrame();
 		new LHSFrame();
+		new SYJFrame();//SYJㅎㅊ
 	}
 }
