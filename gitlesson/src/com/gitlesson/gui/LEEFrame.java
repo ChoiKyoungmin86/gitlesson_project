@@ -9,7 +9,7 @@ public class LEEFrame extends JFrame{
 		//this(); //재귀
 		super("lee frame");
 		this.getContentPane().setBackground(Color.CYAN);
-		this.getDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
 
 }
