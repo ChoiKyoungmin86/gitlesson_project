@@ -15,5 +15,6 @@ public class GitLessonApp {
 		new JDSFrame();
 		new KJYFrame();
 		new KDHFrame();
+		new LEEFrame(); // LEE FRAME 호출
 	}
 }
