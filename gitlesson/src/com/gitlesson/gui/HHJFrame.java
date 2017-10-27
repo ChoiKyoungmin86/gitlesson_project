@@ -11,6 +11,7 @@ public class HHJFrame extends JFrame {
 		this.setDefaultCloseOperation(3);
 		this.setBounds(500, 300, 300, 400);
 		this.setVisible(true);
+		System.out.println("띠용!");
 		while(true) {
 			this.getContentPane().setBackground(new Color((int)(Math.random()*255), (int)(Math.random()*255), (int)(Math.random()*255)));
 			try {
