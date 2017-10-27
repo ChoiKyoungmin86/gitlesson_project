@@ -12,5 +12,4 @@ public class LEEFrame extends JFrame{
 		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		System.out.println("sdsd");
 	}
-
 }
